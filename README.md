@@ -1,5 +1,6 @@
-# MERGING OF TWO OR MORE .IPYNB NOTEBOOKS FILES INTO A SINGLE .IPYNB NOTEBOOK FILE
 
+# MERGING OF TWO OR MORE .IPYNB NOTEBOOKS FILES INTO A SINGLE .IPYNB NOTEBOOK FILE
+![1-LPnY8nOLg4S6_TG0DEXwsg-1](https://user-images.githubusercontent.com/85668824/123548384-3b90d580-d782-11eb-8ccd-9e892d70648b.png)
 ## History
 
 In 2011, IPython introduced a new tool named the Notebook. Inspired by scientific programs like Mathematica or Sage, the Notebook offers a modern and powerful web interface to Python.
