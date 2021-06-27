@@ -52,5 +52,3 @@ Mr.X reaction:
 
 
 ### Please refer the Merging_Methods.ipynb file for all the three methods and the results of these are saved in mideweek1, mideweek2 and mideweek3 respectively.
-
-### Also attached the Presentaion for more better undersatnding.
