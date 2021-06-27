@@ -36,9 +36,9 @@ Project involves merging of Two or more .ipynb notebooks files into a single .ip
 For explanatory purposes we have taken the example of Mr. X who has has two Jupyter notebooks named Monday.ipynb file and Tuesday.ipynb file. 
 Files contains total count of COVID +ve patients found all over Asia on Monday and Tuesday.
 
-Mr. X’s boss “demands” see the data of both the files in one file called midweek.ipynb 
+### Mr. X’s boss “demands” see the data of both the files in one file called midweek.ipynb 
 
-Mr.X reaction:
+### Mr.X reaction:
 
 ![anigif_sub-buzz-9506-1510940418-13](https://user-images.githubusercontent.com/85668824/123548194-662e5e80-d781-11eb-9251-c64dc2162111.gif)
 
@@ -51,4 +51,9 @@ Mr.X reaction:
 3. Merge_notebook Methods
 
 
-### Please refer the Merging_Methods.ipynb file for all the three methods and the results of these are saved in mideweek1, mideweek2 and mideweek3 respectively.
+#### Please refer the Merging_Methods.ipynb file for all the three methods and the results of these are saved in mideweek1, mideweek2 and mideweek3 respectively.
+
+
+### When Mr. X has finally merged the both the files!
+
+![UnequaledFirstAmurstarfish-size_restricted](https://user-images.githubusercontent.com/85668824/123548491-91fe1400-d782-11eb-8487-37e2a3c2e588.gif)
